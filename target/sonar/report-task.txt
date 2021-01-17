@@ -1,0 +1,6 @@
+projectKey=sonarCalculator
+serverUrl=http://localhost:9000
+serverVersion=8.6.0.39681
+dashboardUrl=http://localhost:9000/dashboard?id=sonarCalculator
+ceTaskId=AXb6WzoPp7anF1yIjqL0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXb6WzoPp7anF1yIjqL0

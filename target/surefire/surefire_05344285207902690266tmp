@@ -1,0 +1,9 @@
+#surefire_0
+#Wed Jan 13 10:42:37 IST 2021
+basedir=C\:\\Users\\nisha\\OneDrive\\Pictures\\Screenshots\\PPT\\exercise\\spring\\LambdaExample
+org.sonarsource.scanner.maven\:sonar-maven-plugin\:3.7.0.1746\:sonar=true
+sonar.projectKey=sonarCalculator
+user.dir=C\:\\Users\\nisha\\OneDrive\\Pictures\\Screenshots\\PPT\\exercise\\spring\\LambdaExample
+sonar.host.url=http\://localhost\:9000
+sonar.login=282e910354dfb10dafaa8d65440ea635161d78bf
+localRepository=C\:\\Users\\nisha\\.m2\\repository
